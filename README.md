@@ -9,4 +9,4 @@ By the end of this guide, you'll be able to:
 3. Improve your data storytelling and make smarter business decisions effortlessly.
 
 For a detailed walkthrough of the entire process, check out my video:
-🔗 Watch Here
+🔗 Watch Here: https://youtu.be/VAZB2vRZZH0?si=QvaU1Q4dHg041oSX
